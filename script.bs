@@ -1,0 +1,5 @@
+SET\name\"World
+CONCAT\greeting\"Hello, \name
+OUT\greeting
+NEWLINE
+QUIT
