@@ -17,7 +17,7 @@
 | `IFLESSER`                           | `a` `b` `line`    | Jump if a < b                                   |
 | `WAIT`                               | `ms`              | Waits for X milliseconds                        |
 | `QUIT`                               | *(none)*          | Ends program                                    |
-| `COMMENT`                            | `anything`        | Ignored                                         |
+| `REM`                                | `anything`        | Ignored                                         |
 
 ## Other
 Backslashes are used as delimeters(e.g OUT\"Hello, World!).
