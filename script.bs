@@ -1,5 +1,15 @@
-SET\name\"World
-CONCAT\greeting\"Hello, \name
-OUT\greeting
-NEWLINE
-QUIT
+REM\Fibonacci Implementation
+
+SET\a\0
+SET\b\1
+SET\i\0
+SET\n\10
+
+OUT\a
+OUT\" 
+
+ADD\b\b\a
+SUB\a\b\a
+
+ADD\i\1\i
+IFLESSER\i\n\6
